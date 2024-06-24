@@ -39,7 +39,7 @@ https://e-commerce-beta-eight-90.vercel.app/
 2. Navigate to the project directory:
 
     ```sh
-    cd ecommerce-react-app
+    cd ecommerce
 
 3. Install the dependencies:
 
