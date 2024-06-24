@@ -18,6 +18,10 @@
 - **React Router**: For handling navigation and routing within the application.
 - **Redux Toolkit Query**: For efficient data fetching and caching.
 
+## LIVE DEMO:
+
+https://e-commerce-beta-eight-90.vercel.app/
+
 ## Getting Started
 
 ### Prerequisites
@@ -30,7 +34,7 @@
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ndrew256/e-commerce-test-task.git
+   git clone https://github.com/ndrew256/e-commerce.git
 
 2. Navigate to the project directory:
 
